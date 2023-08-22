@@ -88,3 +88,23 @@
 .icon {
     margin-top: 10px;
 }
+
+.message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    color:rgb(211, 69, 50);
+    font-size: 25px;
+    font-weight: 400;
+    gap:20px;
+}
+
+.no-data-found {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+   
+}
