@@ -43,6 +43,7 @@
     display:flex;
     justify-content: center;
     margin-top: 29px;
+    height: 30vh;
 }
 
 .weather-temp{
